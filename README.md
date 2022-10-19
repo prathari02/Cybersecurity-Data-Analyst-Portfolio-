@@ -1,8 +1,12 @@
 <h1>Hi, I'm Prathik! Health Administrator, <a href="https://www.linkedin.com/in/prathik-h-698568178/">Cybersecurity Student</a>, Entry Level Data Analyst  
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
+- 🔭 I’m currently working on:
+  
 
--
+<h2>👨‍💻 Cyber Security Projects:</h2>
+- 🔭 I’m currently working on:
+  - Active Directory Pentesting Home Lab in VirtualBox
 
 <h2>📺 Coursework and Certifications</h2>
 
