@@ -5,8 +5,7 @@
   
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- 🔭 I’m currently working on:
-  - Active Directory Pentesting Home Lab in VirtualBox
+- 🔭 I’m currently working on: Active Directory Pentesting Home Lab in VirtualBox
 
 <h2>📺 Coursework and Certifications</h2>
 
