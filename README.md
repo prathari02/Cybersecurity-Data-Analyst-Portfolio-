@@ -21,6 +21,10 @@
     - Python for Cybersecurity
   
 - <b>TryHackMe</b>
+  - [Public Profile]
+  
+  [Public Profile]: https://tryhackme.com/p/Bence.Simalia
+  
   - Rank: Top 8%
   - Rooms Completed: 28
     - Introduction to Cybersecurity Room
