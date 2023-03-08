@@ -39,7 +39,7 @@
   
   
 <h2>👨‍💻 Data Analyst Projects:</h2>
-
+- 🔭 I’m currently working on:
 
 <h2>📺 Coursework and Certifications</h2>
 
