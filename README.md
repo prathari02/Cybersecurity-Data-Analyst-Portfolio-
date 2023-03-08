@@ -11,7 +11,7 @@
 
 - <b>INFOSEC Skills</b>
   - Completed Certificates
-    - Information Privacy Fundamentals
+    - Information Privacy Fundamentals (Acquired: 10/2022; Expiration: NA)
   - I'm currently learning:
     - Identity and Access Management
     - Incident Response
@@ -36,7 +36,9 @@
 
 - <b>Coursera</b>
   - Specializations:
-    - Google Data Analytics 
+    - [Google Data Analytics] (Acquired: 08/2022; Expiration: NA)
+  
+  [Google Data Analytics]: https://coursera.org/verify/professional-cert/6Z48S7SH8RPU
 
 <h2> 🤳 Connect with me:</h2>
 
