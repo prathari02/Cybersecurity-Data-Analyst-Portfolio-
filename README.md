@@ -13,7 +13,7 @@
   - Completed Certificates
     - [Information Privacy Fundamentals] (Acquired: 10/2022; Expiration: NA)
   
-  [Information Privacy Fundamentals]: 
+  [Information Privacy Fundamentals]: [https://github.com/prathari02/Cybersecurity-Data-Analyst-Portfolio-.git/](https://github.com/prathari02/Cybersecurity-Data-Analyst-Portfolio-/blob/2a6ab550c9e149814100fa7a2b222e17fccaedf9/Information%20Privacy%20Fundamentals.pdf)
   
   - I'm currently learning:
     - Identity and Access Management
