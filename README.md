@@ -11,9 +11,9 @@
 
 - <b>INFOSEC Skills</b>
   - Completed Certificates
-    - Information Privacy Fundamentals (Acquired: 10/2022; Expiration: NA)
+    - [Information Privacy Fundamentals] (Acquired: 10/2022; Expiration: NA)
   
-  <embed src="https://prathari02.github.io/information privacy fundamentals.pdf" type="application/pdf"/>
+  [Information Privacy Fundamentals]: 
   
   - I'm currently learning:
     - Identity and Access Management
@@ -28,8 +28,8 @@
   - I’m currently learning:
     - Complete Beginner
 
-- <b>(ISC)^2</b>
-  - [Certified in Cybersecurity] (Acquired: 03/2023; Expiration: 03/2026)
+ - <b>(ISC)<sup>2<sup></b>
+    - [Certified in Cybersecurity] (Acquired: 03/2023; Expiration: 03/2026)
   
   [Certified in Cybersecurity]: https://www.credly.com/badges/e1afddaa-54ba-4ac9-b76b-a34f6822e5ac/linked_in_profile
   
