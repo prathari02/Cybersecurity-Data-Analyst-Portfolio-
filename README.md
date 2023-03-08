@@ -12,6 +12,9 @@
 - <b>INFOSEC Skills</b>
   - Completed Certificates
     - Information Privacy Fundamentals (Acquired: 10/2022; Expiration: NA)
+  
+  <embed src="https://prathari02.github.io/information privacy fundamentals.pdf" type="application/pdf"/>
+  
   - I'm currently learning:
     - Identity and Access Management
     - Incident Response
