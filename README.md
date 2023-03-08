@@ -25,6 +25,10 @@
   - I’m currently learning:
     - Complete Beginner
 
+- <b>(ISC)^2</b>
+  - Certified in Cybersecurity (Acquired: 03/2023; Expiration: 03/2026)
+  
+  
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 
