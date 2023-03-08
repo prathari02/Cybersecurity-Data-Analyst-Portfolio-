@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prathik! Health Administrator, <a href="https://www.linkedin.com/in/prathik-h-698568178/">Cybersecurity Student</a>, Entry Level Data Analyst  
+<h1>Hi, I'm Prathik! <a href="https://www.linkedin.com/in/prathik-h-698568178/">Health Administrator</a> with interest Cybersecurity, Information Assurance, and Data Analytics  
 
 <h2>👨‍💻 IT Projects:</h2>
 - 🔭 I’m currently working on:
