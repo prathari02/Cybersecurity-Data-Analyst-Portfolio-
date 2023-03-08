@@ -30,7 +30,7 @@
     - Introduction to Cybersecurity Room
     - Pre Security Room
   - I’m currently learning:
-    - Complete Beginner
+    - Complete Beginner Learning Path
 
  - <b>(ISC)<sup>2<sup></b>
     - [Certified in Cybersecurity] (Acquired: 03/2023; Expiration: 03/2026)
