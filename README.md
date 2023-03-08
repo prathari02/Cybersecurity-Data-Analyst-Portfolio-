@@ -26,7 +26,9 @@
     - Complete Beginner
 
 - <b>(ISC)^2</b>
-  - Certified in Cybersecurity (Acquired: 03/2023; Expiration: 03/2026)
+  - [Certified in Cybersecurity] (Acquired: 03/2023; Expiration: 03/2026)
+  
+  [Certified in Cybersecurity]: https://www.credly.com/badges/e1afddaa-54ba-4ac9-b76b-a34f6822e5ac/linked_in_profile
   
   
 <h2>👨‍💻 Data Analyst Projects:</h2>
