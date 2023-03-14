@@ -12,11 +12,12 @@
 - <b>INFOSEC Skills</b>
   - Completed Certificates
     - [Information Privacy Fundamentals] (Acquired: 10/2022; Expiration: NA)
+  -SOC Analyst Skills Path
+    -
   
   [Information Privacy Fundamentals]: https://github.com/prathari02/Cybersecurity-Certifications/blob/8053aaf288cfbdae6a5c45568ef2749d75a4de14/Information%20Privacy%20Fundamentals.pdf
   
-  - SOC Analyst Skills
-    - 
+ 
   
   - I'm currently learning:
     - Threat Modeling
