@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 - 🔭 I’m currently working on:
   
+<h2>📺 Coursework and Certifications</h2> 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - 🔭 I’m currently working on: Active Directory Pentesting Home Lab in VirtualBox
