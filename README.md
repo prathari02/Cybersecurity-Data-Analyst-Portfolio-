@@ -16,14 +16,14 @@
     - Threat Modeling 
   
   [Information Privacy Fundamentals]: https://github.com/prathari02/Cybersecurity-Certifications/blob/8053aaf288cfbdae6a5c45568ef2749d75a4de14/Information%20Privacy%20Fundamentals.pdf
-  
- 
-  
+   
   - I'm currently learning:
     - Threat Modeling
     - Identity and Access Management
     - Incident Response
     - Python for Cybersecurity
+  
+- <b>Qualys</b>
   
 - <b>TryHackMe</b>
   - [Public Profile]
