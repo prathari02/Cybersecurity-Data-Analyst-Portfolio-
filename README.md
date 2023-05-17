@@ -20,12 +20,11 @@
   - I'm currently learning:
     - Threat Modeling
     - Identity and Access Management
-    - Incident Response
+    - Incident Respons
     - Python for Cybersecurity
   
 - <b>Qualys</b>
-  - [Vulnerability Management - Foundation]:https://github.com/prathari02/Cybersecurity-Certifications/blob/3fb1197ec79a434cc0f919781b7684c539f9735c/%5BQualys%5D%20Vulnerability%20Management%20-%20Foundation%20Certification.pdf
-  
+  - [Vulnerability Management - Foundation Certification](https://github.com/prathari02/Cybersecurity-Certifications/blob/3fb1197ec79a434cc0f919781b7684c539f9735c/%5BQualys%5D%20Vulnerability%20Management%20-%20Foundation%20Certification.pdf) (Acquired: 05/2023; Expiration: NA)
   
 - <b>TryHackMe</b>
   - [Public Profile]
