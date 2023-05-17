@@ -24,6 +24,8 @@
     - Python for Cybersecurity
   
 - <b>Qualys</b>
+  - [Vulnerability Management - Foundation]:
+  
   
 - <b>TryHackMe</b>
   - [Public Profile]
