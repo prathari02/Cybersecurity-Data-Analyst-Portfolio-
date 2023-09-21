@@ -8,6 +8,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - 🔭 I’m currently working on: Active Directory Pentesting Home Lab in VirtualBox
 
+- Completed Projects:
+  - Configuring and Updating Microsoft Defender and Windows Security Virus & Threat Protection
+  - Analyzing Network Traffic Using TCPDump
+  - Capturing Packets Using Wireshark
+
 <h2>📺 Coursework and Certifications</h2>
 
 - <b>INFOSEC Skills</b>
@@ -19,9 +24,8 @@
   [Information Privacy Fundamentals]: https://github.com/prathari02/Cybersecurity-Certifications/blob/8053aaf288cfbdae6a5c45568ef2749d75a4de14/Information%20Privacy%20Fundamentals.pdf
    
   - I'm currently learning:
-    - Threat Modeling
     - Identity and Access Management
-    - Incident Respons
+    - Incident Response
     - Python for Cybersecurity
   
 - <b>Qualys</b>
@@ -34,10 +38,11 @@
   
   - Rank: Top 8%
   - Rooms Completed: 28
-    - Introduction to Cybersecurity Room
-    - Pre Security Room
+    - Introduction to Cybersecurity Path
+    - Pre Security Path
+    - Security Engineer Path
   - I’m currently learning:
-    - Complete Beginner Learning Path
+    - Complete SOC Level 1 Path
 
  - <b>(ISC)<sup>2<sup></b>
     - [Certified in Cybersecurity] (Acquired: 03/2023; Expiration: 03/2026)
