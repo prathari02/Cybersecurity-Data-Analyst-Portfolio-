@@ -8,6 +8,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - 🔭 I’m currently working on: Active Directory Pentesting Home Lab in VirtualBox
 
+
 - Completed Projects:
   - Configuring and Updating Microsoft Defender and Windows Security Virus & Threat Protection
   - Analyzing Network Traffic Using TCPDump
@@ -17,12 +18,8 @@
 
 - <b>INFOSEC Skills</b>
   - Completed Certificates
-    - [Information Privacy Fundamentals] (Acquired: 10/2022; Expiration: NA)
-  - SOC Analyst Skills Path
-    - Threat Modeling 
-  
-  [Information Privacy Fundamentals]: https://github.com/prathari02/Cybersecurity-Certifications/blob/8053aaf288cfbdae6a5c45568ef2749d75a4de14/Information%20Privacy%20Fundamentals.pdf
-   
+    - [Click Here to take you to Certification Page](https://github.com/prathari02/INFOSEC-LLC-Certificates/blob/c7e384d6325603260e6e56c057bae269dac781a1/README.md) (Acquired: 10/2022; Expiration: NA)
+       
   - I'm currently learning:
     - Identity and Access Management
     - Incident Response
@@ -38,17 +35,17 @@
   
   - Rank: Top 9%
   - Rooms Completed: 62
-    - Introduction to Cybersecurity Path
-    - Pre Security Path
-    - Security Engineer Path
+  - Learning Paths Completed: [Click Here to take you to Certification Page](https://github.com/prathari02/TryHackMe-Certificates/blob/eac006bf059cf6b91982f55c917d576bde5cd3f8/README.md)
   - I’m currently learning:
     - Complete SOC Level 1 Path
    
 - <b>Hack The Box</b>
-  - [
 
- - <b>(ISC)<sup>2<sup></b>
-    - [Certified in Cybersecurity] (Acquired: 03/2023; Expiration: 03/2026)
+ - <b>ISC2</b>
+   - Completed
+     - [Click Here to take you to Certification Page](https://github.com/prathari02/ISC2-Certifications/blob/80ceb1d34959bccc9a4436771c1a0bd30eea7eac/README.md)
+   - In Progress
+      - System Security Certified Professional (Exam Date: 01/06/2023)
   
   [Certified in Cybersecurity]: https://www.credly.com/badges/e1afddaa-54ba-4ac9-b76b-a34f6822e5ac/linked_in_profile
   
