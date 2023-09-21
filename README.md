@@ -36,13 +36,16 @@
   
   [Public Profile]: https://tryhackme.com/p/Bence.Simalia
   
-  - Rank: Top 8%
-  - Rooms Completed: 28
+  - Rank: Top 9%
+  - Rooms Completed: 62
     - Introduction to Cybersecurity Path
     - Pre Security Path
     - Security Engineer Path
   - I’m currently learning:
     - Complete SOC Level 1 Path
+   
+- <b>Hack The Box</b>
+  - [
 
  - <b>(ISC)<sup>2<sup></b>
     - [Certified in Cybersecurity] (Acquired: 03/2023; Expiration: 03/2026)
