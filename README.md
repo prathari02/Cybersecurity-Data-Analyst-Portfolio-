@@ -18,7 +18,7 @@
 
 - <b>INFOSEC Skills</b>
   - Completed Certificates
-    - [Click Here to take you to Certification Page](https://github.com/prathari02/INFOSEC-LLC-Certificates/blob/c7e384d6325603260e6e56c057bae269dac781a1/README.md) (Acquired: 10/2022; Expiration: NA)
+    - [Click Here to take you to Certification Page](https://github.com/prathari02/INFOSEC-LLC-Certificates/blob/c7e384d6325603260e6e56c057bae269dac781a1/README.md) 
        
   - I'm currently learning:
     - Identity and Access Management
