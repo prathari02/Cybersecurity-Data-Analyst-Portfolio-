@@ -21,7 +21,7 @@
 <h2>📺 Coursework and Certifications</h2>
 
 - <b>INFOSEC Skills</b>
-  - Completed Certificates
+  - Completed Certificates:
     - [Click Here to take you to Certification Page](https://github.com/prathari02/INFOSEC-LLC-Certificates/blob/c7e384d6325603260e6e56c057bae269dac781a1/README.md) 
        
   - I'm currently learning:
@@ -46,9 +46,9 @@
 - <b>Hack The Box</b>
 
  - <b>ISC2</b>
-   - Completed
+   - Completed:
      - [Click Here to take you to Certification Page](https://github.com/prathari02/ISC2-Certifications/blob/80ceb1d34959bccc9a4436771c1a0bd30eea7eac/README.md)
-   - In Progress
+   - In Progress:
       - System Security Certified Professional (Exam Date: 01/06/2023)
   
   [Certified in Cybersecurity]: https://www.credly.com/badges/e1afddaa-54ba-4ac9-b76b-a34f6822e5ac/linked_in_profile
