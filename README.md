@@ -1,7 +1,11 @@
 <h1>Hi, I'm Prathik! <a href="https://www.linkedin.com/in/prathik-h-698568178/">Health Administrator</a> with interests in Cybersecurity, Information Assurance, and Data Analytics  
 
 <h2>👨‍💻 IT Projects:</h2>
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on: 
+
+  -  Build a Portfolio Site on Docker
+  -  Creating a Virtual Machine and Deploying a Web Server on Azure
+
   
 <h2>📺 Coursework and Certifications</h2> 
 
