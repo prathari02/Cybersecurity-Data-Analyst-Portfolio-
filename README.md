@@ -44,6 +44,9 @@
     - Complete SOC Level 1 Path
    
 - <b>Hack The Box</b>
+  - Paths and Modules Completed: [Click Here to take you to Certification Page](https://github.com/prathari02/Hack-The-Box-Certifications.git)
+  - I'm currently learning:
+    - Complete SOC Analyst Job Path
 
  - <b>ISC2</b>
    - Completed:
